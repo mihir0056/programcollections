@@ -1,5 +1,7 @@
 package arrays;
 
+import java.util.LinkedList;
+
 public class DeleteArrayElements {
 
     public static int[] removeElement(int[] nums, int val) {
@@ -57,6 +59,8 @@ public class DeleteArrayElements {
         for(int i:arr){
             System.out.print(i);
         }
+
+
     }
 
 }
